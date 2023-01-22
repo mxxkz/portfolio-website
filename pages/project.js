@@ -61,7 +61,6 @@ export default function Project() {
             </div>
           </div>
         </section>
-        <div className="text white text-3xl">test</div>
       </main>
     </>
   )
