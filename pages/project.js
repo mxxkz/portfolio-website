@@ -36,7 +36,7 @@ export default function Project() {
         <section className="py-2 font-mono">
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
-              <a href="https://safe-painness-six.vercel.app/">
+              <a href="https://safe-painness.vercel.app/">
                 <Image
                   className="rounded-lg object-cover"
                   width={'80%'}
